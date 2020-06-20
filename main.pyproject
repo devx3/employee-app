@@ -1,0 +1,13 @@
+{
+    "files": [
+        "charts.py",
+        "main.py",
+        "mainmenu.py",
+        "manage_employees.py",
+        "new_employee.py",
+        "new_position.py",
+        "new_salary.py",
+        "salary_position.py",
+        "employee_full_info.py"
+    ]
+}
