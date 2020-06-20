@@ -10,7 +10,7 @@ class Database:
       print( "Database has been instantiated!" )
 
       self.db = QSqlDatabase.addDatabase("QSQLITE")
-      self.db.setDatabaseName("D:/Datasets/SQLite/Tests.db")
+      self.db.setDatabaseName("./Tests.db")
       self.db.open()
       Database.is_intantiated = True
     else: 
